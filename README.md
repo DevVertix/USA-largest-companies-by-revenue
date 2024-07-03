@@ -1,4 +1,4 @@
-This project involves web scraping Wikipedia to gather data on the top 100 largest companies in the USA by revenue, followed by cleaning and analyzing the dataset using Python.
+This project involves web scraping Wikipedia to gather data on the top 100 largest companies in the USA by revenue, followed by cleaning and analyzing the dataset using Python/PowerBI.
 
 Overview :
 The goal of this project is to collect and analyze data from Wikipedia pages listing the top 100 largest companies in the USA by revenue. The project includes web scraping using BeautifulSoup for data extraction and pandas for data cleaning and analysis. The cleaned dataset is then stored in Excel format for further use and analysis.
