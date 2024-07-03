@@ -8,6 +8,7 @@ Technologies Used:
 - BeautifulSoup
 - pandas
 - openpyxl (Excel engine for pandas)
+- PowerBI
   
 Project Structure:
 The project is organized into the following main components:
