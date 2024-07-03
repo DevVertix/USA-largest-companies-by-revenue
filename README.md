@@ -14,15 +14,18 @@ Project Structure:
 The project is organized into the following main components:
 
 1 .Web Scraping Script:
-Wikipedia_largest_companies_USA_scraping.ipynb: Jupyter notebook containing the web scraping script using BeautifulSoup to extract company data from Wikipedia.
-Data Cleaning and Analysis:
 
-2. Dataset_cleaning.ipynb: Jupyter notebook where the extracted data is cleaned using pandas. This includes handling missing values, correcting errors, and ensuring data consistency.
-Dataset:
+- Wikipedia_largest_companies_USA_scraping.ipynb: Jupyter notebook containing the web scraping script using BeautifulSoup to extract company data from       Wikipedia.
+  
+2. Data Cleaning and Analysis:
 
-3. USA_companies: Excel file containing the dataset of the top 100 largest companies in the USA by revenue before cleaning.
+- Dataset_cleaning.ipynb: Jupyter notebook where the extracted data is cleaned using pandas. This includes handling missing values, correcting errors, and ensuring data consistency.
+  
+3. Dataset:
 
-4. cleaned_largest_companies_USA_dataset.xlsx: Excel file containing the cleaned dataset of the top 100 largest companies in the USA by revenue.
+- USA_companies: Excel file containing the dataset of the top 100 largest companies in the USA by revenue before cleaning.
+
+- cleaned_largest_companies_USA_dataset.xlsx: Excel file containing the cleaned dataset of the top 100 largest companies in the USA by revenue.
 
 Visualization and Analysis Questions:
 
