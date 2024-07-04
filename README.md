@@ -43,9 +43,15 @@ Compare and contrast the revenue contributions of different sectors.
 Map the headquarters locations of these top companies.
 Identify any regional concentrations of high-revenue companies.
 
+# Dashboard:
+
+![Home](https://github.com/DevVertix/USA-largest-companies-by-revenue/assets/96891235/c61271c7-93ad-4231-9308-9d0226a63312)
+![REVENUE](https://github.com/DevVertix/USA-largest-companies-by-revenue/assets/96891235/bca335c5-7491-4c12-91e4-1803ab69f8c2)
+
+
 3.Sector Comparison:
 Compare the revenue performance of companies in Healthcare, Technology, and Petroleum sectors.
 Investigate differences in revenue growth rates between sectors.
 
-![Revenue Distribution by Industry]([images/revenue_distribution.png](https://private-user-images.githubusercontent.com/96891235/345853725-f444c0c8-267d-4bae-b7b5-dcabe80783e8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxMDExODAsIm5iZiI6MTcyMDEwMDg4MCwicGF0aCI6Ii85Njg5MTIzNS8zNDU4NTM3MjUtZjQ0NGMwYzgtMjY3ZC00YmFlLWI3YjUtZGNhYmU4MDc4M2U4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA0VDEzNDgwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlODY1OTY3ZjIwZTRmZGRhZmQ5ODY5ZjI4NDMwODZhYWNjNGE5NDEzMmFmNDEzZWZkZGZiMTI5MTc2YjM1MjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.U5gZdxLjwefMZPpjv-UuC2ymlM6ZepFvR9295BUHHCg))
+![Home]()
 
