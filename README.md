@@ -1,5 +1,5 @@
 
-# Largest companies in the USA
+# USA largest companies by revenue
 
 
 This project involves web scraping Wikipedia to gather data on the top 100 largest companies in the USA by revenue, followed by cleaning and analyzing the dataset using Python/PowerBI.
