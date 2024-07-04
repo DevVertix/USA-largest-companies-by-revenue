@@ -45,7 +45,6 @@ Identify any regional concentrations of high-revenue companies.
 
 # Dashboard:
 
-![Home](https://github.com/DevVertix/USA-largest-companies-by-revenue/assets/96891235/c61271c7-93ad-4231-9308-9d0226a63312)
 ![REVENUE](https://github.com/DevVertix/USA-largest-companies-by-revenue/assets/96891235/bca335c5-7491-4c12-91e4-1803ab69f8c2)
 
 
